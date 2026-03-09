@@ -1,0 +1,11 @@
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\bin\Debug\ProjMetSobrescrito.exe.config
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\bin\Debug\ProjMetSobrescrito.exe
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\bin\Debug\ProjMetSobrescrito.pdb
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\obj\Debug\ProjMetSobrescrito.csproj.AssemblyReference.cache
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\obj\Debug\ProjMetSobrescrito.csproj.SuggestedBindingRedirects.cache
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\obj\Debug\ProjMetSobrescrito.Form1.resources
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\obj\Debug\ProjMetSobrescrito.Properties.Resources.resources
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\obj\Debug\ProjMetSobrescrito.csproj.GenerateResource.cache
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\obj\Debug\ProjMetSobrescrito.csproj.CoreCompileInputs.cache
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\obj\Debug\ProjMetSobrescrito.exe
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjMetSobrescrito\ProjMetSobrescrito\obj\Debug\ProjMetSobrescrito.pdb

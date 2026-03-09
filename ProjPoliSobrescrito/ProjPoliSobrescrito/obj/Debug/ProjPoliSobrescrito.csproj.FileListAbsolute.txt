@@ -1,0 +1,12 @@
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\bin\Debug\ProjPoliSobrescrito.exe.config
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\bin\Debug\ProjPoliSobrescrito.exe
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\bin\Debug\ProjPoliSobrescrito.pdb
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\obj\Debug\ProjPoliSobrescrito.csproj.AssemblyReference.cache
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\obj\Debug\ProjPoliSobrescrito.csproj.SuggestedBindingRedirects.cache
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\obj\Debug\ProjPoliSobrescrito.Form1.resources
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\obj\Debug\ProjPoliSobrescrito.Properties.Resources.resources
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\obj\Debug\ProjPoliSobrescrito.csproj.GenerateResource.cache
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\obj\Debug\ProjPoliSobrescrito.csproj.CoreCompileInputs.cache
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\obj\Debug\ProjPoliSobrescrito.exe
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\obj\Debug\ProjPoliSobrescrito.pdb
+C:\Users\treinamentosti01\Downloads\RuanzinDelas\ProjPoliSobrescrito\ProjPoliSobrescrito\obj\Debug\ProjPoliSobrescrito.frmPrincipal.resources
