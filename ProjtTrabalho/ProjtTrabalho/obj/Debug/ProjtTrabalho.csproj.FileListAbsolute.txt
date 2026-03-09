@@ -1,0 +1,11 @@
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\obj\Debug\ProjtTrabalho.csproj.AssemblyReference.cache
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\obj\Debug\ProjtTrabalho.csproj.SuggestedBindingRedirects.cache
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\obj\Debug\ProjtTrabalho.Form1.resources
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\obj\Debug\ProjtTrabalho.Properties.Resources.resources
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\obj\Debug\ProjtTrabalho.csproj.GenerateResource.cache
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\obj\Debug\ProjtTrabalho.csproj.CoreCompileInputs.cache
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\bin\Debug\ProjtTrabalho.exe.config
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\bin\Debug\ProjtTrabalho.exe
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\bin\Debug\ProjtTrabalho.pdb
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\obj\Debug\ProjtTrabalho.exe
+D:\Ruan\ProjetosC#\ProjtTrabalho\ProjtTrabalho\obj\Debug\ProjtTrabalho.pdb
