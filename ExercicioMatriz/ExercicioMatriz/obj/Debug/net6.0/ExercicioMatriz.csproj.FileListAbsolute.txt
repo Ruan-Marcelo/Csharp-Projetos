@@ -1,0 +1,15 @@
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.exe
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.deps.json
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.runtimeconfig.json
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.dll
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.pdb
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.csproj.AssemblyReference.cache
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.AssemblyInfoInputs.cache
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.AssemblyInfo.cs
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.dll
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\refint\ExercicioMatriz.dll
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.pdb
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.genruntimeconfig.cache
+D:\Projeto ruan m. r. Luz\ExercicioMatriz\ExercicioMatriz\obj\Debug\net6.0\ref\ExercicioMatriz.dll
