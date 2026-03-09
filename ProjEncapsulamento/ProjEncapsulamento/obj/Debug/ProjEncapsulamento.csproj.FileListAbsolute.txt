@@ -1,0 +1,21 @@
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.exe.config
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.exe
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.pdb
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.AssemblyReference.cache
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.SuggestedBindingRedirects.cache
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.Properties.Resources.resources
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.GenerateResource.cache
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.CoreCompileInputs.cache
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.exe
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.pdb
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.infoAlunos.resources
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.exe.config
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.exe
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.pdb
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.infoAlunos.resources
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.Properties.Resources.resources
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.GenerateResource.cache
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.exe
+C:\Users\black\Downloads\PROJETOSVS2022\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.pdb
