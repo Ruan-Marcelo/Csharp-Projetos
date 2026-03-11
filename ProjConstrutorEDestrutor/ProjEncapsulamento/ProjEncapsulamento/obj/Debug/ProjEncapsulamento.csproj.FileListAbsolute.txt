@@ -1,0 +1,32 @@
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.exe.config
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.exe
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.pdb
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.AssemblyReference.cache
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.SuggestedBindingRedirects.cache
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.Form1.resources
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.Properties.Resources.resources
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.GenerateResource.cache
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.CoreCompileInputs.cache
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.exe
+D:\projeto orientado a objeto\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.pdb
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.exe.config
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.exe
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.pdb
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.AssemblyReference.cache
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.SuggestedBindingRedirects.cache
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.Form1.resources
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.Properties.Resources.resources
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.GenerateResource.cache
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.CoreCompileInputs.cache
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.exe
+D:\Projeto ruan m. r. Luz\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.pdb
+C:\Users\black\Downloads\ProjConstrutorEDestrutor\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.exe.config
+C:\Users\black\Downloads\ProjConstrutorEDestrutor\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.exe
+C:\Users\black\Downloads\ProjConstrutorEDestrutor\ProjEncapsulamento\ProjEncapsulamento\bin\Debug\ProjEncapsulamento.pdb
+C:\Users\black\Downloads\ProjConstrutorEDestrutor\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\ProjConstrutorEDestrutor\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.Form1.resources
+C:\Users\black\Downloads\ProjConstrutorEDestrutor\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.Properties.Resources.resources
+C:\Users\black\Downloads\ProjConstrutorEDestrutor\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.GenerateResource.cache
+C:\Users\black\Downloads\ProjConstrutorEDestrutor\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\ProjConstrutorEDestrutor\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.exe
+C:\Users\black\Downloads\ProjConstrutorEDestrutor\ProjEncapsulamento\ProjEncapsulamento\obj\Debug\ProjEncapsulamento.pdb
