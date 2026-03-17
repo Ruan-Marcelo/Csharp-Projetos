@@ -199,3 +199,51 @@ for (int i = 1; i < 101; i++)
     else
         Console.WriteLine($"{i}");
 }
+
+int hero = 10;
+int monster = 10;
+
+Random dice = new Random();
+
+do
+{
+    int roll = dice.Next(1, 11);
+    monster -= roll;
+    Console.WriteLine($"Monster was damaged and lost {roll} health and now has {monster} health.");
+
+    if (monster <= 0) continue;
+
+    roll = dice.Next(1, 11);
+    hero -= roll;
+    Console.WriteLine($"Hero was damaged and lost {roll} health and now has {hero} health.");
+
+} while (hero > 0 && monster > 0);
+
+Console.WriteLine(hero > monster ? "Hero wins!" : "Monster wins!");
+
+string? readResult;
+string roleName = "";
+bool validEntry = false;
+
+do
+{                
+    Console.WriteLine("Enter your role name (Administrator, Manager, or User)");
+    readResult = Console.ReadLine();
+    if (readResult != null) 
+    {
+        roleName = readResult.Trim();
+    }
+
+    if (roleName.ToLower() == "administrator" || roleName.ToLower() == "manager" || roleName.ToLower() == "user") 
+    {
+        validEntry = true;
+    }
+    else
+    {
+        Console.Write($"The role name that you entered, \"{roleName}\" is not valid. ");
+    }
+
+} while (validEntry == false);
+
+Console.WriteLine($"Your input value ({roleName}) has been accepted.");
+readResult = Console.ReadLine();
