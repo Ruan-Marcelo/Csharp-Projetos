@@ -164,3 +164,78 @@ string[,] corporate =
 		email = email.ToLower();
 		Console.WriteLine($"{email}@{domain}");
 	}
+string input = "there are snakes at the zoo";
+
+Console.WriteLine(input);
+Console.WriteLine(ReverseSentence(input));
+
+string ReverseSentence(string input) 
+{
+    string result = "";
+    string[] words = input.Split(" ");
+    foreach(string word in words) 
+    {
+        result += ReverseWord(word) + " ";
+    }
+    return result.Trim();
+}
+
+string ReverseWord(string word) 
+{
+    string result = "";
+    for (int i = word.Length - 1; i >= 0; i--) 
+    {
+        result += word[i];
+    }
+    return result;
+}
+
+Random random = new Random();
+
+Console.WriteLine("Would you like to play? (Y/N)");
+if (ShouldPlay()) 
+{
+    PlayGame();
+}
+
+bool ShouldPlay() 
+{
+    string response = Console.ReadLine();
+    return response.ToLower().Equals("y");
+}
+
+void PlayGame() 
+{
+    var play = true;
+
+    while (play) {
+        var target = GetTarget();
+        var roll = RollDice();
+
+        Console.WriteLine($"Roll a number greater than {target} to win!");
+        Console.WriteLine($"You rolled a {roll}");
+        Console.WriteLine(WinOrLose(roll, target));
+        Console.WriteLine("\nPlay again? (Y/N)");
+
+        play = ShouldPlay();
+    }
+}
+
+int GetTarget() 
+{
+    return random.Next(1, 6);
+}
+
+int RollDice() 
+{
+    return random.Next(1, 7);
+}
+
+string WinOrLose(int roll, int target) 
+{
+    if (roll > target) 
+    {
+        return "You win!";
+    }
+    return "You lose!";
+}
